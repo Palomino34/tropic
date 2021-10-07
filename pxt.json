@@ -1,0 +1,10 @@
+{
+    "name": "tropic",
+    "description": "tropic driver", 	
+    "files": [
+        "tropic.ts"
+    ],
+    "dependencies": {
+        "core": "file:../core"
+    }
+}
